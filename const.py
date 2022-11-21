@@ -1,5 +1,5 @@
-CHAT_SERVER_HOST = "10.128.0.3"
-CHAT_SERVER_PORT = 5001
+CHAT_SERVER_HOST = "172.31.9.72"
+CHAT_SERVER_PORT = 5680
 
 # IDs de usuários registrados com os respectivos endereços IP e números de porta
-registry = {"Alice":("10.128.0.2",5002), "Bob":("10.128.0.4",5002)}
+registry = {"Alice":("172.31.12.168", 5679), "Bob":("172.31.12.70", 5679)}
